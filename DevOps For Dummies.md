@@ -1,3 +1,4 @@
+---
 #emily-freeman
 
 DevOps is a philosophy, one that prioritizes people over process and process over tooling. DevOps builds a culture of trust, collaboration, and continuous improvement.
